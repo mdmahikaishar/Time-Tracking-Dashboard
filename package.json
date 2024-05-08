@@ -1,0 +1,9 @@
+{
+  "name": "time-tracking-dashboard",
+  "version": "1.0.0",
+  "author": "mdmahikaishar <mahikaishar@gmail.com>",
+  "description": "Time tracking dashboard.",
+  "main": "index.js",
+  "keywords": ["dashboard", "time", "tracking", "landing page", "page", "website"],
+  "license": "ISC"
+}
